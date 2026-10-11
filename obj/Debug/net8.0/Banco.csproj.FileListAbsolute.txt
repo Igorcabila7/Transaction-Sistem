@@ -1,0 +1,14 @@
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.AssemblyInfoInputs.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.AssemblyInfo.cs
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.csproj.CoreCompileInputs.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/bin/Debug/net8.0/Banco
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/bin/Debug/net8.0/Banco.deps.json
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/bin/Debug/net8.0/Banco.runtimeconfig.json
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/bin/Debug/net8.0/Banco.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/bin/Debug/net8.0/Banco.pdb
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/refint/Banco.dll
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.pdb
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/Banco.genruntimeconfig.cache
+/home/igor-cabila/Documentos/Exercicios/Inicio/POO/Banco/obj/Debug/net8.0/ref/Banco.dll
